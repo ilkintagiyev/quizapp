@@ -22,8 +22,12 @@ const Quiz = () => {
         else {
             setWrong(true)
         }
-        setInputValue('')
+        return setInputValue('')
     }, [index, inputValue, quizes])
+
+    const changeQuestion = useCallback(() => {
+        setIndex(Math.floor(Math.random() * questions?.length))
+    }, [])
 
     return (
         <div className={style.container}>
@@ -32,6 +36,7 @@ const Quiz = () => {
                 <input onChange={e => setInputValue(e.target.value)} placeholder='Cavabı yaz' />
                 <button onClick={submitAnswer}>Təsdiqlə</button>
                 <button onClick={showAnswer}>Cavabı göstər</button>
+                <button onClick={changeQuestion}>Suali dəyiş</button>
             </label>
             <h3>{answer}</h3>
             <h3>{wrong && 'Səhv yazdınız zəhmət olmasa yenidən yoxlayın'}</h3>
