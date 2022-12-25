@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+
+.question {
+    color: red;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+}
+
+.label button,
+input {
+    width: 50%;
+    margin: 10px auto;
+    height: 30px;
+}
