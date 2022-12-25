@@ -377,23 +377,103 @@ export const questions = [
         answer: 'xeberdar olmaq'
     },
     {
-        id : 77,
-        question : 'miserable',
-        answer : 'bedbext',
+        id: 77,
+        question: 'miserable',
+        answer: 'bedbext',
     },
     {
-        id : 78,
-        question : 'interrupt',
-        answer : 'kesmek',
+        id: 78,
+        question: 'interrupt',
+        answer: 'kesmek',
     },
     {
-        id : 79,
-        question : 'boar',
-        answer : 'donuz'
+        id: 79,
+        question: 'boar',
+        answer: 'donuz'
     },
     {
-        id : 80,
-        question : 'precisely',
-        answer : 'deqiq'
+        id: 80,
+        question: 'precisely',
+        answer: 'deqiq'
+    },
+    {
+        id: 81,
+        question: 'bullet',
+        answer: 'gulle'
+    },
+    {
+        id: 82,
+        question: 'fornicating',
+        answer: 'zina'
+    },
+    {
+        id: 83,
+        question: 'judgments',
+        answer: 'zina'
+    },
+    {
+        id: 84,
+        question: 'observant',
+        answer: 'musahideci'
+    },
+    {
+        id: 85,
+        question: 'pulse',
+        answer: 'nebz'
+    },
+    {
+        id: 86,
+        question: 'deserve',
+        answer: 'layiq olmaq'
+    },
+    {
+        id: 87,
+        question: 'infidelity',
+        answer: 'vefasizliq'
+    },
+    {
+        id: 88,
+        question: 'interference',
+        answer: 'mudaxile'
+    },
+    {
+        id: 89,
+        question: 'drool',
+        answer: 'su axması',
+    },
+    {
+        id: 90,
+        question: 'defame',
+        answer: 'bohtan atmaq'
+    },
+    {
+        id: 91,
+        question: 'abusive',
+        answer: 'tehqiramiz'
+    },
+    {
+        id: 92,
+        question: 'testify',
+        answer: 'sahidlik etmek'
+    },
+    {
+        id: 93,
+        question: 'interrogate',
+        answer: 'sorgu sual etmek'
+    },
+    {
+        id: 94,
+        question: 'detaine',
+        answer: 'tutmaq'
+    },
+    {
+        id: 95,
+        question: 'snitch',
+        answer: 'hiyleger'
+    },
+    {
+        id: 96,
+        question: 'forensic',
+        answer: 'mehkeme'
     }
 ]
