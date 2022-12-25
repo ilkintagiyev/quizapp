@@ -145,5 +145,200 @@ export const questions = [
         id: 29,
         question: 'release',
         answer: 'azad etmək'
+    },
+    {
+        id: 30,
+        question: 'willingly',
+        answer: 'hevesle'
+    },
+    {
+        id: 31,
+        question: 'mole',
+        answer: 'köstəbək'
+    },
+    {
+        id: 32,
+        question: 'fragile',
+        answer: 'kövrək'
+    },
+    {
+        id: 33,
+        question: 'shoulder',
+        answer: 'ciyin'
+    },
+    {
+        id: 34,
+        question: 'lung',
+        answer: 'agciyer',
+    },
+    {
+        id: 35,
+        question: 'stab',
+        answer: 'bicaqlamaq'
+    },
+    {
+        id: 36,
+        question: 'furnace',
+        answer: 'soba',
+    },
+    {
+        id: 37,
+        question: 'seize',
+        answer: 'tutmaq saxlamaq',
+    },
+    {
+        id: 38,
+        question: 'hand over',
+        answer: 'tehvil vermek',
+    },
+    {
+        id: 39,
+        question: 'scatter',
+        answer: 'sepmek'
+    },
+    {
+        id: 40,
+        question: 'trap',
+        answer: 'tele'
+    },
+    {
+        id: 41,
+        question: 'intentional',
+        answer: 'qesden'
+    },
+    {
+        id: 42,
+        question: 'hesitate',
+        answer: 'tereddud etmek'
+    },
+    {
+        id: 43,
+        question: 'confident',
+        answer: 'inamli'
+    },
+    {
+        id: 44,
+        question: 'act',
+        answer: 'davranmaq'
+    },
+    {
+        id: 45,
+        question: 'crappy',
+        answer: 'berbad'
+    },
+    {
+        id: 47,
+        question: 'intervention',
+        answer: 'araya girmek'
+    },
+    {
+        id: 48,
+        question: 'commotion',
+        answer: 'hay kuy',
+    },
+    {
+        id: 49,
+        question: 'suffocate',
+        answer: 'boğmaq'
+    },
+    {
+        id: 50,
+        question: 'snore',
+        answer: 'xoruldamaq',
+    },
+    {
+        id: 51,
+        question: 'abuse',
+        answer: 'sui-istifade'
+    },
+    {
+        id: 52,
+        question: 'mess it up',
+        answer: 'qarışdırmaq'
+    },
+    {
+        id: 53,
+        question: 'noodles',
+        answer: 'eriste'
+    },
+    {
+        id: 54,
+        question: 'yell',
+        answer: 'qisqirmaq'
+    },
+    {
+        id: 55,
+        question: 'accusation',
+        answer: 'ittiham'
+    },
+    {
+        id: 56,
+        question: 'threat',
+        answer: 'tehluke'
+    },
+    {
+        id: 57,
+        question: 'saint',
+        answer: 'muqeddes'
+    },
+    {
+        id : 58,
+        question : 'convince',
+        answer : 'inandirmaq',
+    },
+    {
+        id : 59,
+        question : 'trace',
+        answer : 'izine dusmek'
+    },
+    {
+        id : 60,
+        question : 'courtesy',
+        answer : 'nezaket'
+    },
+    {
+        id : 61,
+        question : 'intend',
+        answer : 'niyyet etmek'
+    },
+    {
+        id : 62,
+        question : 'torture',
+        answer : 'isgence',
+    },
+    {
+        id : 63,
+        question : 'as soon as',
+        answer : 'tezlikle'
+    },
+    {
+        id : 64,
+        question : 'threshold',
+        answer : 'astana'
+    },
+    {
+        id : 65,
+        question : 'reveal',
+        answer : 'aşkar etmək'
+    },
+    {
+        id : 66,
+        question : 'inferior',
+        answer : 'asagi'
+    },
+    {
+        id : 67,
+        question : 'vein',
+        answer : 'damar'
+    },
+    {
+        id : 68,
+        question : 'jugular',
+        answer : 'boyun',
+    },
+    {
+        id : 69,
+        question : 'plier',
+        answer : 'kelbetin'
     }
 ]

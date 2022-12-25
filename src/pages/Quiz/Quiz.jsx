@@ -12,6 +12,9 @@ const Quiz = () => {
 
     const showAnswer = useCallback(() => {
         setAnswer(quizes[index].answer)
+        setTimeout(() => {
+            setIndex(Math.floor(Math.random() * questions?.length))
+        }, 2000);
     }, [index, quizes])
 
     const submitAnswer = useCallback(() => {
