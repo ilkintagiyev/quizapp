@@ -12,6 +12,7 @@ const Quiz = () => {
 
     const showAnswer = useCallback(() => {
         setAnswer(quizes[index].answer)
+        setWrong(false)
         setTimeout(() => {
             setIndex(Math.floor(Math.random() * questions?.length))
         }, 2000);
@@ -25,10 +26,13 @@ const Quiz = () => {
         else {
             setWrong(true)
         }
-        return setInputValue('')
+        setAnswer('')
+        setInputValue('')
     }, [index, inputValue, quizes])
 
     const changeQuestion = useCallback(() => {
+        setAnswer('')
+        setWrong(false)
         setIndex(Math.floor(Math.random() * questions?.length))
     }, [])
 

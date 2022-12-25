@@ -282,63 +282,118 @@ export const questions = [
         answer: 'muqeddes'
     },
     {
-        id : 58,
-        question : 'convince',
-        answer : 'inandirmaq',
+        id: 58,
+        question: 'convince',
+        answer: 'inandirmaq',
     },
     {
-        id : 59,
-        question : 'trace',
-        answer : 'izine dusmek'
+        id: 59,
+        question: 'trace',
+        answer: 'izine dusmek'
     },
     {
-        id : 60,
-        question : 'courtesy',
-        answer : 'nezaket'
+        id: 60,
+        question: 'courtesy',
+        answer: 'nezaket'
     },
     {
-        id : 61,
-        question : 'intend',
-        answer : 'niyyet etmek'
+        id: 61,
+        question: 'intend',
+        answer: 'niyyet etmek'
     },
     {
-        id : 62,
-        question : 'torture',
-        answer : 'isgence',
+        id: 62,
+        question: 'torture',
+        answer: 'isgence',
     },
     {
-        id : 63,
-        question : 'as soon as',
-        answer : 'tezlikle'
+        id: 63,
+        question: 'as soon as',
+        answer: 'tezlikle'
     },
     {
-        id : 64,
-        question : 'threshold',
-        answer : 'astana'
+        id: 64,
+        question: 'threshold',
+        answer: 'astana'
     },
     {
-        id : 65,
-        question : 'reveal',
-        answer : 'aşkar etmək'
+        id: 65,
+        question: 'reveal',
+        answer: 'aşkar etmək'
     },
     {
-        id : 66,
-        question : 'inferior',
-        answer : 'asagi'
+        id: 66,
+        question: 'inferior',
+        answer: 'asagi'
     },
     {
-        id : 67,
-        question : 'vein',
-        answer : 'damar'
+        id: 67,
+        question: 'vein',
+        answer: 'damar'
     },
     {
-        id : 68,
-        question : 'jugular',
-        answer : 'boyun',
+        id: 68,
+        question: 'jugular',
+        answer: 'boyun',
     },
     {
-        id : 69,
-        question : 'plier',
-        answer : 'kelbetin'
+        id: 69,
+        question: 'plier',
+        answer: 'kelbetin'
+    },
+    {
+        id: 70,
+        question: 'cripple',
+        answer: 'sikest',
+    },
+    {
+        id: 71,
+        question: 'even though',
+        answer: 'baxmayaraq ki',
+    },
+    {
+        id: 72,
+        question: 'resign',
+        answer: 'istefa'
+    },
+    {
+        id: 73,
+        question: 'foster',
+        answer: 'himayedar'
+    },
+    {
+        id: 74,
+        question: 'joyriding',
+        answer: 'sevindirici'
+    },
+    {
+        id: 75,
+        question: 'blend',
+        answer: 'qarisdirmaq'
+    },
+    {
+        id: 76,
+        question: 'awake',
+        answer: 'xeberdar olmaq'
+    },
+    {
+        id : 77,
+        question : 'miserable',
+        answer : 'bedbext',
+    },
+    {
+        id : 78,
+        question : 'interrupt',
+        answer : 'kesmek',
+    },
+    {
+        id : 79,
+        question : 'boar',
+        answer : 'donuz'
+    },
+    {
+        id : 80,
+        question : 'precisely',
+        answer : 'deqiq'
     }
 ]
